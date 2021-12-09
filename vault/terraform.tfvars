@@ -1,0 +1,6 @@
+vault_token         = "s.W3fgODJOxhr4I8pCnnCelXYQ" 
+rds_mssql_endpoint  = "hashicorpbr2021prd.c8wdrgx33lnk.us-east-1.rds.amazonaws.com"
+rds_mssql_port      = "1433"
+rds_mssql_user      = "adminrds"
+rds_mssql_passwd    = "HASHICORPbr2021"
+rds_mssql_database  = "vault"
